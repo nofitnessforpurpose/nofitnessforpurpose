@@ -2,7 +2,7 @@
 - 👀 I’m interested in PSION Organiser Hacking (and other things)
 - 🌱 I’m currently learning many things
 - 💞️ I’m looking to collaborate on PSION Organiser Hacking
-- 📫 How to reach me here in Github
+- 📫 How to reach me here in Github or the Organiser 2 forums
 - 😄 
 - ⚡ Fun fact: ... I built my first computer from a kit and it worked !
 
